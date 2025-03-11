@@ -1,5 +1,7 @@
 “It is a profound and necessary truth that the deep things in science are not found because they are useful; they are found because it was possible to find them.” ― J. Robert Oppenheimer
 
+Hello!
+
 I'm a Novice Cinephile/Intermediate Statistician/Veteran of the _Psychic Wars_.
 ## Fields of Interest
 - Functional Data Analysis
