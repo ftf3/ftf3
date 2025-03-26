@@ -6,8 +6,8 @@ In this folder, I have included **my solutions** to _some_ Exercises in _some_ b
 | N. of Exercises        |   13 |   12 |   21 |   12 |   14 |   17 |    89 |
 | P. of Exercises        | 0,15 | 0,13 | 0,24 | 0,13 | 0,16 | 0,19 |       |
 | C. P. of Exercises     | 0,15 | 0,28 | 0,52 | 0,65 | 0,81 | 1,00 |       |
-| N. of Solved Exercises |   13 |    0 |    0 |    0 |    0 |    0 |    13 |
-| P. of Solved Exercises | 1,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |  0,15 |
+| N. of Solved Exercises |   13 |   12 |    0 |    0 |    0 |    0 |    25 |
+| P. of Solved Exercises | 1,00 | 1,00 | 0,00 | 0,00 | 0,00 | 0,00 |  0,28 |
 - "Pattern Recognition and Machine Learning", Christopher Bishop.
 
 | Chapter                |    1 |    2 |    3 |    4 |    5 |    6 |    7 |    8 |    9 |   10 |   11 |   12 |   13 |   14 | Total |
