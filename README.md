@@ -1,8 +1,4 @@
-“It is a profound and necessary truth that the deep things in science are not found because they are useful; they are found because it was possible to find them.” - J. Robert Oppenheimer
-
-"Sometimes the world has a load of questions, seems like the world knows nothing at all." - Talking Heads
-
-### Hello!
+### Hi.
 
 I'm a Novice Cinephile/Intermediate Statistician/Veteran of the _Psychic Wars_.
 ## Fields of Interest
