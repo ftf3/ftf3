@@ -1,6 +1,6 @@
 ### Hi.
 
-I'm a Novice Cinephile/Intermediate Statistician/Veteran of the _Psychic Wars_.
+I'm a Novice Cinephile/Intermediate Statistician.
 ## Fields of Interest
 - Functional Data Analysis
   
